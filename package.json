@@ -1,0 +1,37 @@
+{
+  "name": "javascript-twitch-bot",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.40.1",
+    "axios": "^1.9.0",
+    "better-sqlite3": "^11.10.0",
+    "decode-html": "^2.0.0",
+    "dotenv": "^16.5.0",
+    "droll": "^0.2.1",
+    "escape-string-regexp": "^5.0.0",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "html-entities": "^2.6.0",
+    "node-fetch": "^3.3.2",
+    "node-rest-client": "^3.1.1",
+    "npm": "^11.4.1",
+    "open": "^10.2.0",
+    "pastebin-api": "^7.0.0",
+    "path": "^0.12.7",
+    "pm2": "^6.0.8",
+    "simple-oauth2": "^5.1.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "string-similarity": "^4.0.4",
+    "websocket": "^1.0.35",
+    "ws": "^8.18.2"
+  }
+}
