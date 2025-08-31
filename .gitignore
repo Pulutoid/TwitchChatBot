@@ -1,3 +1,14 @@
+.env
+/node_modules
+*.db
+*db-shm
+*db-wal
+.db
+.sqlite3
+.sql
+
+
+
 # Logs
 logs
 *.log
